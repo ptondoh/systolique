@@ -1,12 +1,16 @@
 {
   "posts": [
   {
-    "nom": "Patrice",
+    "id" : 1
+    "patient": "Patrice",
     "systolique": 120,
     "diastolique": 70
+  },
+    {
+    "id" : 2
+    "patient": "Mansour",
+    "systolique": 100,
+    "diastolique": 50
   }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
