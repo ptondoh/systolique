@@ -1,5 +1,12 @@
 {
-  "nom": "Patrice",
-  "systolique": 120,
-  "diastolique": 70
+  "posts": [
+  {
+    "nom": "Patrice",
+    "systolique": 120,
+    "diastolique": 70
+  }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
