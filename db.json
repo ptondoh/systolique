@@ -1,14 +1,5 @@
 {
-  "pression": [
-    {
-      "nom": "Patrice",
-      "systolique": 120,
-	  "diastolique": 70
-    },
-	{
-      "nom": "Mansour",
-      "systolique": 100,
-	  "diastolique": 50
-    }
-  ]
+  "nom": "Patrice",
+  "systolique": 120,
+  "diastolique": 70
 }
