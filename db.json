@@ -3,14 +3,14 @@
   {
     "id" : 1,
     "patient": "Patrice",
-    "systolique": 120,
-    "diastolique": 70
+    "pression_systolique": 120,
+    "pression_diastolique": 70
   },
     {
     "id" : 2,
     "patient": "Mansour",
-    "systolique": 100,
-    "diastolique": 50
+    "pression_systolique": 100,
+    "pression_diastolique": 50
   }
   ]
 }
