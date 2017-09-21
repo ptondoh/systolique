@@ -3,12 +3,12 @@
     {
       "nom": "Patrice",
       "systolique": 120,
-	  "diastolique": 70,
+	  "diastolique": 70
     },
 	{
       "nom": "Mansour",
-      "systolique": 120,
-	  "diastolique": 70,
+      "systolique": 100,
+	  "diastolique": 50
     }
   ]
 }
