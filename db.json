@@ -4,13 +4,15 @@
     "id" : 1,
     "patient": "Patrice",
     "pression_systolique": 120,
-    "pression_diastolique": 70
+    "pression_diastolique": 70,
+    "temperature": 36
   },
     {
     "id" : 2,
     "patient": "Mansour",
     "pression_systolique": 100,
-    "pression_diastolique": 50
+    "pression_diastolique": 50,
+      "temperature": 37
   }
   ]
 }
